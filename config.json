@@ -1,0 +1,40 @@
+{
+  "site_title": "清华大学生物医学工程学院 · 教师前沿方向数据库",
+  "site_desc": "面向科技部'颠覆性技术创新专项'的清华生医工学院教师前沿方向调研数据库",
+  "footer": "数据来源：med.tsinghua.edu.cn / bme.tsinghua.edu.cn / 清华研招网 2026 博士招生目录 · 仅供科研情报调研",
+  "primary_school": "tsinghua-bme",
+  "schools": [
+    {
+      "id": "tsinghua-bme",
+      "name": "清华大学生物医学工程学院",
+      "university": "清华大学",
+      "default_lab": "",
+      "description": ""
+    }
+  ],
+  "labs": [
+    {
+      "id": "key-beijing-implant",
+      "name": "有源植介入医疗器械临床创新与转化北京市重点实验室",
+      "type": "北京市重点实验室",
+      "school": "tsinghua-bme"
+    },
+    {
+      "id": "mcgovern",
+      "name": "IDG/麦戈文脑研究院",
+      "type": "校级平台",
+      "school": "tsinghua-bme"
+    },
+    {
+      "id": "moldiag",
+      "name": "智能分子诊断(课题组)",
+      "type": "课题组",
+      "school": "tsinghua-bme"
+    }
+  ],
+  "extra_schools": [],
+  "status_labels": {
+    "reviewed": "已核实",
+    "pending": "待调研"
+  }
+}
